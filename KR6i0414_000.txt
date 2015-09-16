@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 無明羅剎集
+#+DATE: 2015-08-30 20:18:24.670687
+#+PROPERTY: JUAN 0
