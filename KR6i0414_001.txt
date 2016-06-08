@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 720
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0414_T_000-0850a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0414_T_001-0850a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -248,7 +248,7 @@ No. 720¶
 城人民都盡，而於今者欲食我耶？譬如暴河¶
 力能漂沒，唯不能浮大石重山。」王捉其手而¶
 語之言：「捨汝幻惑，復汝本形。汝作大惡，今我¶
-執汝非枉橫也。」羅剎即時合掌作禮而言：「我¶
+報汝非枉橫也。」羅剎即時合掌作禮而言：「我¶
 今誠心歸命於王。」王時即更聞有異聲，顧望¶
 四方。羅剎問言：「何以顧望？」王復問言：「是何¶
 妙聲？」羅剎答言：「我過欲導，發此歌音聲、彈¶

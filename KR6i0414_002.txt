@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 720
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0414_T_000-0850a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0414_T_002-0853a> 
 #+PROPERTY: JUAN 2
@@ -119,7 +119,7 @@
 而捉於愛。愛語菩薩言：「善來，淨飯王子！汝¶
 於無量劫中，作諸功德，集諸善行。汝之威力¶
 過於帝釋、大梵天王，汝當留神受我小供。」菩¶
-薩問言：「汝以何供？」愛答言：「於五根處所受¶
+薩問言：「汝以何供？」愛答言：「於五根處所愛¶
 五欲樂，是我供養。」菩薩問曰：「何以用此五根¶
 而請於我？」愛答言：「我以色、香、味、觸，而請於¶
 汝。」菩薩言：「汝今乃以香美毒果請於我耶？」愛¶
